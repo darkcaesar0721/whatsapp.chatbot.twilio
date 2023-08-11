@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp.chatbot.twilio",
+  "version": "1.0.0",
+  "description": "This is Whatsapp-chatbot-twilio by twilio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkcaesar0721/whatsapp.chatbot.twilio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darkcaesar0721/whatsapp.chatbot.twilio/issues"
+  },
+  "homepage": "https://github.com/darkcaesar0721/whatsapp.chatbot.twilio#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1",
+    "twilio": "^4.15.0"
+  }
+}
